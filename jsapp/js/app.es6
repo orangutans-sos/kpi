@@ -67,7 +67,7 @@ export default class App extends React.Component {
     }
 
     return (
-      <DocumentTitle title='Rimbalab Toolbox'>
+      <DocumentTitle title='KoBoToolbox'>
         <React.Fragment>
           <PermValidator/>
           <IntercomHandler/>
